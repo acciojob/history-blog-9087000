@@ -1,4 +1,3 @@
-//your JS code here. If required.
-document.addEventListner(DOMContentLoaded', function () {
+document.addEventListener('DOMContentLoaded', function () {
     console.log("Welcome to the History Blog");
-	)};
+});
